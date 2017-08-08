@@ -1,7 +1,7 @@
 Estefania Ducuara Lizcano
 25161351
 
-La actividad consistió en crear el primer repositorio, aprender algunos comandos importantes sobre como guardas los archivos en el repositorio, y enviarlos a repositorios remotos.
+La actividad consistiÃ³ en crear el primer repositorio, aprender algunos comandos importantes sobre como guardar los archivos en el repositorio, y enviarlos a repositorios remotos.
 
 comandos  para crear y enviar:
 
@@ -9,14 +9,14 @@ mkdir "directorio"
 
 cd "directorio"
 
-git init (crea el repositorio)
+git init (crea el repositorio local)
 
-git status (para ver que hay y donde)
+git status (muestra lo que hay en el repositorio)
 
-(creo algun archivo como readme.txt)
+(crear algun archivo readme.txt)
 
 git add "readme.txt"
 
-git commit -m "descripcion" (para enviar oficialmente al repositorio local 1)
+git commit -m "descripcion sobre el readme.txt " (para enviar oficialmente al repositorio local 1)
 
 
