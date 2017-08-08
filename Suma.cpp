@@ -3,7 +3,7 @@
 #include<fstream>
 using namespace std;
 
-int main(void)
+int main()
 {
 ofstream sum("suma.dat");
 
@@ -16,6 +16,7 @@ cout<< N <<"  "<< c<< endl;
 sum<< N <<"  "<< c<< endl;
 }
 sum.close();
+ return 0;
 }
 
 
